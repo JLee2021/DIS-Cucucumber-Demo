@@ -7,9 +7,9 @@
 
 ### Project Description:
 
-This provides a basic template for using Cucumber.io in JavaScript.
+This provides a basic template for using Cucumber.io in JavaScript from the Cucumber examples documentation.
 
-### URL (Web-based Projects): [https://cucumber.io/docs/installation/javascript/](Cucumber Documentation)
+### URL (Web-based Projects): [Cucumber Documentation](https://cucumber.io/docs/installation/javascript/)
 
 <br>
 
